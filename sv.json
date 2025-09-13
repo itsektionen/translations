@@ -1,0 +1,390 @@
+{
+  "colors": {
+    "laserViolet": {
+      "singular": "laserviolett",
+      "plural": "laservioletta",
+      "definite": {
+        "singular": "laservioletta",
+        "plural": "laservioletta"
+      }
+    },
+    "limeGreen": {
+      "singular": "limegrön",
+      "plural": "limegröna",
+      "definite": {
+        "singular": "limegröna",
+        "plural": "limegröna"
+      }
+    },
+    "ochreRed": {
+      "singular": "okraröd",
+      "plural": "okraröda",
+      "definite": {
+        "singular": "okraröda",
+        "plural": "okraröda"
+      }
+    },
+    "siliconBlue": {
+      "singular": "kiselblå",
+      "plural": "kiselblåa",
+      "definite": {
+        "singular": "kiselblåa",
+        "plural": "kiselblåa"
+      }
+    }
+  },
+  "committees": {
+    "businessRelationsCommittee": {
+      "singular": "Näringslivsnämnd",
+      "plural": "Näringslivsnämnder",
+      "definite": {
+        "singular": "Näringslivsnämnden",
+        "plural": "Näringslivsnämnderna"
+      },
+      "short": "BRC"
+    },
+    "communicationsCommittee": {
+      "singular": "Kommunikationsnämnd",
+      "plural": "Kommunikationsnämnder",
+      "definite": {
+        "singular": "Kommunikationsnämnden",
+        "plural": "Kommunikationsnämnderna"
+      },
+      "short": "KommN"
+    },
+    "councilOfSafety": {
+      "singular": "Trygghetsråd",
+      "plural": "Trygghetsråd",
+      "definite": {
+        "singular": "Trygghetsrådet",
+        "plural": "Trygghetsråden"
+      }
+    },
+    "electionCommittee": {
+      "singular": "Valberedning",
+      "plural": "Valberedningar",
+      "definite": {
+        "singular": "Valberedningen",
+        "plural": "Valberedningarna"
+      }
+    },
+    "sportsCommittee": {
+      "singular": "Idrottsnämnd",
+      "plural": "Idrottsnämnder",
+      "definite": {
+        "singular": "Idrottsnämnden",
+        "plural": "Idrottsnämnderna"
+      }
+    },
+    "studyCommittee": {
+      "singular": "Studienämnd",
+      "plural": "Studienämnder",
+      "definite": {
+        "singular": "Studienämnden",
+        "plural": "Studienämnderna"
+      }
+    },
+    "studyEnvironmentCommittee": {
+      "singular": "Studiemiljönämnd",
+      "plural": "Studiemiljönämnder",
+      "definite": {
+        "singular": "Studiemiljönämnden",
+        "plural": "Studiemiljönämnderna"
+      },
+      "short": "SMN"
+    },
+    "studySocialCommittee": {
+      "singular": "Studiesocialnämnd",
+      "plural": "Studiesocialnämnder",
+      "definite": {
+        "singular": "Studiesociala nämnden",
+        "plural": "Studiesociala nämnderna"
+      }
+    }
+  },
+  "names": {
+    "mechapter": {
+      "full": "Sektionen för Mikroelektronik",
+      "short": "ME-Sektionen"
+    },
+    "inchapter": {
+      "full": "Sektionen för Informations- och Nanoteknik",
+      "short": "IN-Sektionen"
+    },
+    "iskchapter": {
+      "full": "Ingenjörssektionen Kista",
+      "short": "IsK"
+    },
+    "itchapter": {
+      "full": "Sektionen för Informationsteknik",
+      "short": "IT-Sektionen"
+    },
+    "kistan": {
+      "short": "Kistan",
+      "full": "Kistan 2.0"
+    },
+    "kth": {
+      "short": "KTH",
+      "full": "Kungliga Tekniska Högskolan"
+    },
+    "ths": {
+      "short": "THS",
+      "full": "Tekniska Högskolans Studentkår"
+    }
+  },
+  "roles": {
+    "auditor": {
+      "singular": "revisor",
+      "plural": "revisorer",
+      "definite": {
+        "singular": "revisorn",
+        "plural": "revisorerna"
+      }
+    },
+    "boardMember": {
+      "singular": "styrelsemedlem",
+      "plural": "styrelsemedlemmar",
+      "definite": {
+        "singular": "styrelsemedlemen",
+        "plural": "styrelsemedlemmarna"
+      }
+    },
+    "convener": {
+      "singular": "sammankallande",
+      "plural": "sammankallande",
+      "definite": {
+        "singular": "sammankallande",
+        "plural": "sammankallandene"
+      }
+    },
+    "historyResponsible": {
+      "singular": "historieansvarig",
+      "plural": "historieansvariga",
+      "definite": {
+        "singular": "historieansvariga",
+        "plural": "historieansvariga"
+      }
+    },
+    "ingen": {
+      "short": "INGEN",
+      "full": "INitiationsGENeral"
+    },
+    "kamResponsible": {
+      "singular": "KAM ansvarig",
+      "plural": "KAM ansvariga",
+      "definite": {
+        "singular": "KAM ansvariga",
+        "plural": "KAM ansvariga"
+      }
+    },
+    "komma": {
+      "singular": "kommunikationsansvarig",
+      "plural": "kommunikationsansvariga",
+      "definite": {
+        "singular": "kommunikationsansvariga",
+        "plural": "kommunikationsansvariga"
+      },
+      "short": "KommA"
+    },
+    "lillSture": {
+      "short": "Lill-StURe",
+      "full": "Studiemiljönämndens vice ordförande"
+    },
+    "nagon": {
+      "short": "NÅGON",
+      "full": "Neurotisk Åskådare till Generalens Oundvikliga Nederlag"
+    },
+    "pas": {
+      "singular": "programansvarig student",
+      "plural": "programansvariga studenter",
+      "definite": {
+        "singular": "programansvariga studenten",
+        "plural": "programansvariga studenterna"
+      },
+      "short": "PAS"
+    },
+    "powerOutletCoordinator": {
+      "singular": "stickkontaktsansvarig",
+      "plural": "stickkontaktsansvariga",
+      "definite": {
+        "singular": "stickkontaktsansvarige",
+        "plural": "stickkontaktsansvariga"
+      }
+    },
+    "president": {
+      "singular": "ordförande",
+      "plural": "ordförande",
+      "definite": {
+        "singular": "ordförande",
+        "plural": "ordförandena"
+      }
+    },
+    "secretary": {
+      "singular": "sekreterare",
+      "plural": "sekreterare",
+      "definite": {
+        "singular": "sekreteraren",
+        "plural": "sekreterarna"
+      }
+    },
+    "sno": {
+      "short": "SNO",
+      "full": "Studienämndens ordförande"
+    },
+    "sso": {
+      "singular": "studernande skyddsombud",
+      "plural": "studernande skyddsombud",
+      "definite": {
+        "singular": "studernande skyddsombudet",
+        "plural": "studernande skyddsombuden"
+      },
+      "short": "SSO"
+    },
+    "standardBearer": {
+      "singular": "fanbärare",
+      "plural": "fanbärare",
+      "definite": {
+        "singular": "fanbäraren",
+        "plural": "fanbärarna"
+      }
+    },
+    "sture": {
+      "short": "StURe",
+      "full": "Studiemiljönämndens ordförande"
+    },
+    "treasurer": {
+      "singular": "kassör",
+      "plural": "kassörer",
+      "definite": {
+        "singular": "kassören",
+        "plural": "kassörerna"
+      }
+    },
+    "vicePresident": {
+      "singular": "vice ordförande",
+      "plural": "vice ordförande",
+      "definite": {
+        "singular": "vice ordförande",
+        "plural": "vice ordförandena"
+      }
+    }
+  },
+  "buddy": {
+    "singular": "fadder",
+    "plural": "faddrar",
+    "definite": {
+      "singular": "faddern",
+      "plural": "faddrarna"
+    }
+  },
+  "chapter": {
+    "singular": "sektion",
+    "plural": "sektioner",
+    "definite": {
+      "singular": "sektionen",
+      "plural": "sektionerna"
+    }
+  },
+  "committee": {
+    "singular": "nämnd",
+    "plural": "nämnder",
+    "definite": {
+      "singular": "nämnden",
+      "plural": "nämnderna"
+    }
+  },
+  "doq": {
+    "singular": "DOQ",
+    "plural": "DOQar",
+    "definite": {
+      "singular": "DOQen",
+      "plural": "DOQarna"
+    }
+  },
+  "gasque": {
+    "singular": "gasque",
+    "plural": "gasquer",
+    "definite": {
+      "singular": "gasquen",
+      "plural": "gasquerna"
+    }
+  },
+  "memo": {
+    "short": "PM",
+    "full": "post meridiem"
+  },
+  "mux": {
+    "singular": "MUX",
+    "plural": "MUXar",
+    "definite": {
+      "singular": "MUXen",
+      "plural": "MUXarna"
+    }
+  },
+  "nollan": {
+    "singular": "nØllan",
+    "plural": "nØllan",
+    "definite": {
+      "singular": "nØllan",
+      "plural": "nØllan"
+    }
+  },
+  "ovve": {
+    "informal": {
+      "singular": "ovve",
+      "plural": "ovvar",
+      "definite": {
+        "singular": "ovven",
+        "plural": "ovvarna"
+      }
+    },
+    "formal": {
+      "singular": "overall",
+      "plural": "overaller",
+      "definite": {
+        "singular": "overallen",
+        "plural": "overallerna"
+      }
+    }
+  },
+  "seating": {
+    "singular": "sittning",
+    "plural": "sittningar",
+    "definite": {
+      "singular": "sittningen",
+      "plural": "sittningarna"
+    }
+  },
+  "songBook": {
+    "singular": "sångbok",
+    "plural": "sångböcker",
+    "definite": {
+      "singular": "sångboken",
+      "plural": "sångböckerna"
+    }
+  },
+  "statutes": {
+    "singular": "stadga",
+    "plural": "stadgar",
+    "definite": {
+      "singular": "stadgan",
+      "plural": "stadgarna"
+    }
+  },
+  "bylaws": {
+    "singular": "styrdokument",
+    "plural": "styrdokumenten",
+    "definite": {
+      "singular": "styrdokumentet",
+      "plural": "styrdokumenten"
+    }
+  },
+  "trustees": {
+    "singular": "förtroendevald",
+    "plural": "förtroendevalda",
+    "definite": {
+      "singular": "förtroendevalda",
+      "plural": "förtroendevalda"
+    }
+  }
+}
