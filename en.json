@@ -1,0 +1,390 @@
+{
+  "colors": {
+    "laserViolet": {
+      "singular": "laser violet",
+      "plural": "laser violets",
+      "definite": {
+        "singular": "the laser violet",
+        "plural": "the laser violets"
+      }
+    },
+    "limeGreen": {
+      "singular": "lime green",
+      "plural": "lime greens",
+      "definite": {
+        "singular": "the lime green",
+        "plural": "the lime greens"
+      }
+    },
+    "ochreRed": {
+      "singular": "ochre red",
+      "plural": "ochre reds",
+      "definite": {
+        "singular": "the ochre red",
+        "plural": "the ochre reds"
+      }
+    },
+    "siliconBlue": {
+      "singular": "silicon blue",
+      "plural": "silicon blues",
+      "definite": {
+        "singular": "the silicon blue",
+        "plural": "the silicon blues"
+      }
+    }
+  },
+  "committees": {
+    "businessRelationsCommittee": {
+      "singular": "Business Relations Committee",
+      "plural": "Business Relations Committees",
+      "definite": {
+        "singular": "the Business Relations Committee",
+        "plural": "the Business Relations Committees"
+      },
+      "short": "BRC"
+    },
+    "communicationsCommittee": {
+      "singular": "Communications Committee",
+      "plural": "Communications Committees",
+      "definite": {
+        "singular": "the Communications Committee",
+        "plural": "the Communications Committees"
+      },
+      "short": "KommN"
+    },
+    "councilOfSafety": {
+      "singular": "Council of Safety",
+      "plural": "Councils of Safety",
+      "definite": {
+        "singular": "the Council of Safety",
+        "plural": "the Councils of Safety"
+      }
+    },
+    "electionCommittee": {
+      "singular": "Election Committee",
+      "plural": "Election Committees",
+      "definite": {
+        "singular": "the Election Committee",
+        "plural": "the Election Committees"
+      }
+    },
+    "sportsCommittee": {
+      "singular": "Sports Committee",
+      "plural": "Sports Committees",
+      "definite": {
+        "singular": "the Sports Committee",
+        "plural": "the Sports Committees"
+      }
+    },
+    "studyCommittee": {
+      "singular": "Study Committee",
+      "plural": "Study Committees",
+      "definite": {
+        "singular": "the Study Committee",
+        "plural": "the Study Committees"
+      }
+    },
+    "studyEnvironmentCommittee": {
+      "singular": "Study Environment Committee",
+      "plural": "Study Environment Committees",
+      "definite": {
+        "singular": "the Study Environment Committee",
+        "plural": "the Study Environment Committees"
+      },
+      "short": "SMN"
+    },
+    "studySocialCommittee": {
+      "singular": "Study Social Committee",
+      "plural": "Study Social Committees",
+      "definite": {
+        "singular": "the Study Social Committee",
+        "plural": "the Study Social Committees"
+      }
+    }
+  },
+  "names": {
+    "mechapter": {
+      "short": "ME-Chapter",
+      "full": "Chapter for Microelectronics"
+    },
+    "inchapter": {
+      "short": "IN-Chapter",
+      "full": "Chapter for Information and Nanotechnology"
+    },
+    "iskchapter": {
+      "short": "IsK",
+      "full": "Engineering Chapter Kista"
+    },
+    "itchapter": {
+      "short": "IT Chapter",
+      "full": "Chapter for Information Technology"
+    },
+    "kistan": {
+      "short": "Kistan",
+      "full": "Kistan 2.0"
+    },
+    "kth": {
+      "short": "KTH",
+      "full": "KTH Royal Institute of Technology"
+    },
+    "ths": {
+      "short": "THS",
+      "full": "THS Student Union"
+    }
+  },
+  "roles": {
+    "auditor": {
+      "singular": "auditor",
+      "plural": "auditors",
+      "definite": {
+        "singular": "the auditor",
+        "plural": "the auditors"
+      }
+    },
+    "boardMember": {
+      "singular": "board member",
+      "plural": "board members",
+      "definite": {
+        "singular": "the board member",
+        "plural": "the board members"
+      }
+    },
+    "convener": {
+      "singular": "convener",
+      "plural": "conveners",
+      "definite": {
+        "singular": "the convener",
+        "plural": "the conveners"
+      }
+    },
+    "historyResponsible": {
+      "singular": "history responsible",
+      "plural": "history responsibles",
+      "definite": {
+        "singular": "the history responsible",
+        "plural": "the history responsibles"
+      }
+    },
+    "ingen": {
+      "short": "INGEN",
+      "full": "INitiationsGENeral"
+    },
+    "kamResponsible": {
+      "singular": "KAM responsible",
+      "plural": "KAM responsibles",
+      "definite": {
+        "singular": "the KAM responsible",
+        "plural": "the KAM responsibles"
+      }
+    },
+    "komma": {
+      "singular": "communications responsible",
+      "plural": "communications responsibles",
+      "definite": {
+        "singular": "the communications responsible",
+        "plural": "the communications responsibles"
+      },
+      "short": "KommA"
+    },
+    "lillSture": {
+      "short": "Lill-StURe",
+      "full": "Study Environment Committee vice President"
+    },
+    "nagon": {
+      "short": "NÅGON",
+      "full": "Neurotisk Åskådare till Generalens Oundvikliga Nederlag"
+    },
+    "pas": {
+      "singular": "program responsible student",
+      "plural": "program responsible students",
+      "definite": {
+        "singular": "the program responsible student",
+        "plural": "the program responsible students"
+      },
+      "short": "PAS"
+    },
+    "powerOutletCoordinator": {
+      "singular": "power outlet coordinator",
+      "plural": "power outlet coordinators",
+      "definite": {
+        "singular": "the power outlet coordinator",
+        "plural": "the power outlet coordinators"
+      }
+    },
+    "president": {
+      "singular": "president",
+      "plural": "presidents",
+      "definite": {
+        "singular": "the president",
+        "plural": "the presidents"
+      }
+    },
+    "secretary": {
+      "singular": "secretary",
+      "plural": "secretaries",
+      "definite": {
+        "singular": "the secretary",
+        "plural": "the secretaries"
+      }
+    },
+    "sno": {
+      "short": "SNO",
+      "full": "Study Committee President"
+    },
+    "sso": {
+      "singular": "student safety representative",
+      "plural": "student safety representatives",
+      "definite": {
+        "singular": "the student safety representative",
+        "plural": "the student safety representatives"
+      },
+      "short": "SSO"
+    },
+    "standardBearer": {
+      "singular": "standard bearer",
+      "plural": "standard bearers",
+      "definite": {
+        "singular": "the standard bearer",
+        "plural": "the standard bearers"
+      }
+    },
+    "sture": {
+      "short": "StURe",
+      "full": "Study Environment Committee President"
+    },
+    "treasurer": {
+      "singular": "treasurer",
+      "plural": "treasurers",
+      "definite": {
+        "singular": "the treasurer",
+        "plural": "the treasurers"
+      }
+    },
+    "vicePresident": {
+      "singular": "vice president",
+      "plural": "vice presidents",
+      "definite": {
+        "singular": "the vice president",
+        "plural": "the vice presidents"
+      }
+    }
+  },
+  "buddy": {
+    "singular": "buddy",
+    "plural": "buddies",
+    "definite": {
+      "singular": "the buddy",
+      "plural": "the buddies"
+    }
+  },
+  "chapter": {
+    "singular": "chapter",
+    "plural": "chapters",
+    "definite": {
+      "singular": "the chapter",
+      "plural": "the chapters"
+    }
+  },
+  "committee": {
+    "singular": "committee",
+    "plural": "committees",
+    "definite": {
+      "singular": "the committee",
+      "plural": "the committees"
+    }
+  },
+  "doq": {
+    "singular": "DOQ",
+    "plural": "DOQs",
+    "definite": {
+      "singular": "the DOQ",
+      "plural": "the DOQs"
+    }
+  },
+  "gasque": {
+    "singular": "gasque",
+    "plural": "gasques",
+    "definite": {
+      "singular": "the gasque",
+      "plural": "the gasques"
+    }
+  },
+  "memo": {
+    "short": "PM",
+    "full": "post meridiem"
+  },
+  "mux": {
+    "singular": "MUX",
+    "plural": "MUXes",
+    "definite": {
+      "singular": "the MUX",
+      "plural": "the MUXes"
+    }
+  },
+  "nollan": {
+    "singular": "nØllan",
+    "plural": "nØllan",
+    "definite": {
+      "singular": "nØllan",
+      "plural": "nØllan"
+    }
+  },
+  "ovve": {
+    "informal": {
+      "singular": "overall",
+      "plural": "overalls",
+      "definite": {
+        "singular": "the overall",
+        "plural": "the overalls"
+      }
+    },
+    "formal": {
+      "singular": "overall",
+      "plural": "overalls",
+      "definite": {
+        "singular": "the overall",
+        "plural": "the overalls"
+      }
+    }
+  },
+  "seating": {
+    "singular": "seating",
+    "plural": "seatings",
+    "definite": {
+      "singular": "the seating",
+      "plural": "the seatings"
+    }
+  },
+  "songBook": {
+    "singular": "song book",
+    "plural": "song books",
+    "definite": {
+      "singular": "the song book",
+      "plural": "the song books"
+    }
+  },
+  "statutes": {
+    "singular": "statute",
+    "plural": "statutes",
+    "definite": {
+      "singular": "the statute",
+      "plural": "the statutes"
+    }
+  },
+  "bylaws": {
+    "singular": "bylaw",
+    "plural": "bylaws",
+    "definite": {
+      "singular": "the bylaw",
+      "plural": "the bylaws"
+    }
+  },
+  "trustees": {
+    "singular": "trustee",
+    "plural": "trustees",
+    "definite": {
+      "singular": "the trustee",
+      "plural": "the trustees"
+    }
+  }
+}
